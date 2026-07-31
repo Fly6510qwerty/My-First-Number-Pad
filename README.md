@@ -18,17 +18,25 @@ My-First-Number-Pad is a 10 switch key macropad with a OLED display, and a rotar
 
 # PCB schematics
 
+Here's the PCB, made in KiCad.
+
 <img width="824" height="581" alt="image" src="https://github.com/user-attachments/assets/484efb77-74f7-4856-acdd-af16eb9fd81d" />
 
 # PCB  design 
+
+Here's the PCB, made in KiCad.
 
 <img width="774" height="859" alt="image" src="https://github.com/user-attachments/assets/578bc97d-8cec-4bf0-8d27-a6fb30154470" />
 
 # 3d PCB design
 
+Here's the PCB, made in KiCad.
+
 <img width="672" height="810" alt="image" src="https://github.com/user-attachments/assets/097aab03-b59f-4f77-b0b6-7f6ff17e316b" />
 
-# Case modeling
+# Case and plate modeling
+
+Here's the case and plate, made in Autodesk Fusion.
 
 <img width="1047" height="571" alt="image" src="https://github.com/user-attachments/assets/5606196e-1b09-47e1-8115-403e1195fad8" />
 
