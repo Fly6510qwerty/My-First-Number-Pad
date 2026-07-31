@@ -7,13 +7,13 @@ My-First-Number-Pad is a 10 switch key macropad with a OLED display, and a rotar
 
 # **Features:**
 
-- An EC11 Rotary Encoder Switch: controls volume and mute settings
+* An EC11 Rotary Encoder Switch: controls volume and mute settings
 
 * 10 Cherry MX style keys
 
-+ SSD1306 OLED module, 0.91 inch, 128x32, I2C
+* SSD1306 OLED module, 0.91 inch, 128x32, I2C
 
-- Customized case, plate, PCB
+* Customized case, plate, PCB
 
 
 # PCB schematics
@@ -43,6 +43,6 @@ Here's the case and plate, made in Autodesk Fusion.
 <img width="1049" height="417" alt="image" src="https://github.com/user-attachments/assets/98d7fe39-b098-4fe0-9dd3-a298bf8e2d83" />
 
 # Firmware Overview
-- The rotary encoder changes volume, press to mute
+* The rotary encoder changes volume, press to mute
 * the 10 regular keys are all the numbers 1 though 10, in the order of a number pad
 * The Oled screen is yet to be programed, but will show some pixel art
