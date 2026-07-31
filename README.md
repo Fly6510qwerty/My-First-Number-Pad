@@ -16,7 +16,7 @@ My-First-Number-Pad is a 10 switch key macropad with a OLED display, and a rotar
 - Customized case, plate, PCB
 
 
-# PCB schematics design
+# PCB schematics
 
 <img width="824" height="581" alt="image" src="https://github.com/user-attachments/assets/484efb77-74f7-4856-acdd-af16eb9fd81d" />
 
