@@ -42,3 +42,7 @@ Here's the case and plate, made in Autodesk Fusion.
 
 <img width="1049" height="417" alt="image" src="https://github.com/user-attachments/assets/98d7fe39-b098-4fe0-9dd3-a298bf8e2d83" />
 
+# Firmware Overview
+- The rotary encoder changes volume, press to mute
+* the 10 regular keys are all the numbers 1 though 10, in the order of a number pad
+* The Oled screen is yet to be programed, but will show some pixel art
