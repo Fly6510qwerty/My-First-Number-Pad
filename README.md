@@ -28,9 +28,9 @@ Here's the PCB, made in KiCad.
 
 <img width="774" height="859" alt="image" src="https://github.com/user-attachments/assets/578bc97d-8cec-4bf0-8d27-a6fb30154470" />
 
-# 3d PCB design
+# 3D PCB design
 
-Here's the PCB, made in KiCad.
+Here's the 3D PCB, made in KiCad.
 
 <img width="672" height="810" alt="image" src="https://github.com/user-attachments/assets/097aab03-b59f-4f77-b0b6-7f6ff17e316b" />
 
