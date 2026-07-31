@@ -5,7 +5,7 @@ My-First-Number-Pad is a 10 switch key macropad with a OLED display, and a rotar
 
 # **Features:**
 
--An EC11 Rotary Encoder Switch: controls volume and mute settings
+- An EC11 Rotary Encoder Switch: controls volume and mute settings
 
 * 10 Cherry MX style keys
 
