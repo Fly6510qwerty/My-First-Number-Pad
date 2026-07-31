@@ -14,3 +14,13 @@ My-First-Number-Pad is a 10 switch key macropad with a OLED display, and a rotar
 + SSD1306 OLED module, 0.91 inch, 128x32, I2C
 
 - Customized case, plate, PCB
+
+
+# PCB schematics design
+
+<img width="824" height="581" alt="image" src="https://github.com/user-attachments/assets/484efb77-74f7-4856-acdd-af16eb9fd81d" />
+
+# PCB  design 
+
+<img width="774" height="859" alt="image" src="https://github.com/user-attachments/assets/578bc97d-8cec-4bf0-8d27-a6fb30154470" />
+
